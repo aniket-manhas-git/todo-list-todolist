@@ -23,22 +23,21 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/todo-list.git
+   https://github.com/aniket-manhas-git/todo-list-todolist.git
 2. Navigate to the project directory:
 
-    ```sh
-    cd todo-list
 3. Install required dependencies:
     ```sh
     pip install -r requirements.txt
     Configure MySQL
     
-4. Install XyMpp and setup for refrence
+4. Install XyMpp and setup for refrence: 
 <a href="https://youtu.be/G2VEf-8nepc?feature=shared">link</a>
 
 Start the Mysql server create a database on php myadmin named "todo_list" with table as "tasks" and  column name as shown in the images.
-<img src="Screenshot 2025-02-14 225346.png">
-<img src="Screenshot 2025-02-14 235338.png">
+![Screenshot 2025-02-14 225346](https://github.com/user-attachments/assets/dee14ae0-c20d-428b-a09c-38e12c955dd9)
+![Screenshot 2025-02-14 235338](https://github.com/user-attachments/assets/38c81ade-60f3-4763-976e-6b86574b8f68)
+
 
 Run python code.
 
